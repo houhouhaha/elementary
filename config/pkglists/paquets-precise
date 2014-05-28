@@ -1,0 +1,27 @@
+# Paquets supplémentaires à installer
+dconf-tools
+elementary-champagne-theme
+elementary-lion-theme
+elementary-thirdparty-icons
+elementary-plank-themes
+elementary-wallpaper-collection
+exaile
+exaile-plugin-ipod
+firefox
+firefox-gnome-support
+firefox-locale-de
+firefox-locale-fr
+gthumb
+irssi
+libreoffice
+libreoffice-l10n-de
+libreoffice-l10n-fr
+mplayer
+nautilus
+openssh-server
+thunderbird
+thunderbird-locale-de
+thunderbird-locale-fr
+ubuntu-restricted-extras
+vim
+vlc

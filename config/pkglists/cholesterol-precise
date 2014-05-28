@@ -1,0 +1,11 @@
+# Paquets inutiles à supprimer
+geary
+ibus
+midori-granite
+noise
+#pantheon-files
+shotwell
+software-center
+totem
+update-manager
+
